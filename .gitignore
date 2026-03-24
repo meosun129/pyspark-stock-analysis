@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files (대용량 데이터는 제외)
+# data/  # 필요하면 주석 해제
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Untitled notebooks
+Untitled*.ipynb
